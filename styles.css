@@ -1,0 +1,8 @@
+body {
+    font-family: sans-serif;
+    background-image: url(img-bc.png);
+    background-repeat: no-repeat;
+    width: 100vw;
+    height: 100vh;
+    background-size: cover;
+}
